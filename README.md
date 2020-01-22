@@ -1,5 +1,5 @@
 # Introduction
-This is a self-conducted research and the purpose of this study is to extract features for disambiguating the meaning of preposition "on".
+This is a self-conducted research and the purpose of this study is to extract features for the disambiguation of the meanings of preposition "on".
 
 # Description
 The code is splitted into two files -- "collect_and_arrange.py" and "clustering.py". The result of "collect_and_arrang.py" serves as the input of "clustering.py" and "clustering.py" yields the final output of this study.
